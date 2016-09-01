@@ -96,7 +96,7 @@ The following fields are average measurements for each subject on a specific act
 81. FrequencyBodyGyroscopeJerkMagnitudeMeanFreq   
 
 
-Working procedure to create this data:
+Working procedure to create this data:     
 1. Fisrt Downloaded the data from given URL.     
 2. Read activities and features from file.      
 3. Make the feature names nice by string replace.        
