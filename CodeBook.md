@@ -5,14 +5,14 @@ The resulting "TidyData.txt" data file contains 81 columns. All columns except s
 
 ## Data Fieldes
 
-1. subject - (integer) This is ID for each subject observed. 
-2. activity - The type of activity performed when the corresponding measurements were taken
-	*value 1 means WALKING : subject was walking during the test
-	*value 2 means WALKING_UPSTAIRS : subject was walking up a staircase during the test
-	*value 3 means WALKING_DOWNSTAIRS : subject was walking down a staircase during the test
-	*value 4 means SITTING : subject was sitting during the test
-	*value 5 means STANDING : subject was standing during the test
-	*value 6 means LAYING : subject was laying down during the test
+1. subject - (integer) This is ID for each subject observed.   
+2. activity - The type of activity performed when the corresponding measurements were taken.     
+   * value 1 means WALKING : subject was walking during the test   
+   * value 2 means WALKING_UPSTAIRS : subject was walking up a staircase during the test   
+   * value 3 means WALKING_DOWNSTAIRS : subject was walking down a staircase during the test   
+   * value 4 means SITTING : subject was sitting during the test   
+   * value 5 means STANDING : subject was standing during the test   
+   * value 6 means LAYING : subject was laying down during the test   
 
 The following fields are average measurements for each subject on a specific activity
 3. TimeBodyAccelerometerMean-X                              
