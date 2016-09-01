@@ -1,9 +1,9 @@
-##Code Book
+#Code Book
 
 The resulting "TidyData.txt" data file contains 81 columns. All columns except subject and activity represents the average of these measurement for
  each subject for a specific activity. This code book describes the resulting data fields in TidyData.txt.
 
-# Data Fieldes
+## Data Fieldes
 
 1. subject - (integer) This is ID for each subject observed. 
 2. activity - The type of activity performed when the corresponding measurements were taken
