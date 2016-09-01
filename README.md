@@ -1,6 +1,7 @@
 # Getting-and-Cleaning-Data-Course-Project
 
-This project contains some data gathering and manipulation task. The data given for this project is collected from an experiment. The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. Using its embedded accelerometer and gyroscope. The given tasks are following:
+This project contains some data gathering and manipulation task. The data given for this project is collected from an experiment. The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. Using its embedded accelerometer and gyroscope. The data from this experiment is the source of this project.   
+The given tasks on this dataset are following:    
 1. Merges the training and the test sets to create one data set.     
 2. Extracts only the measurements on the mean and standard deviation for each measurement.     
 3. Uses descriptive activity names to name the activities in the data set.        
