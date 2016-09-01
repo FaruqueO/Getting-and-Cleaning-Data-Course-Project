@@ -15,13 +15,13 @@ The resulting "TidyData.txt" data file contains 81 columns. All columns except s
 	*value 6 means LAYING : subject was laying down during the test
 
 The following fields are average measurements for each subject on a specific activity
- 3. TimeBodyAccelerometerMean-X                              
- 4. TimeBodyAccelerometerMean-Y                               
- 5. TimeBodyAccelerometerMean-Z                               
- 6. TimeBodyAccelerometerStdandardDeviation -X
- 7. TimeBodyAccelerometerStdandardDeviation -Y                
- 8. TimeBodyAccelerometerStdandardDeviation -Z                
- 9. TimeGravityAccelerometerMean-X                            
+3. TimeBodyAccelerometerMean-X                              
+4. TimeBodyAccelerometerMean-Y                               
+5. TimeBodyAccelerometerMean-Z                               
+6. TimeBodyAccelerometerStdandardDeviation-X
+7. TimeBodyAccelerometerStdandardDeviation-Y                
+8. TimeBodyAccelerometerStdandardDeviation-Z                
+9. TimeGravityAccelerometerMean-X                          
 10. TimeGravityAccelerometerMean-Y                            
 11. TimeGravityAccelerometerMean-Z                            
 12. TimeGravityAccelerometerStdandardDeviation -X             
