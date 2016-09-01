@@ -14,7 +14,7 @@ The resulting "TidyData.txt" data file contains 81 columns. All columns except s
    * value 5 means STANDING : subject was standing during the test   
    * value 6 means LAYING : subject was laying down during the test   
 
-The following fields are average measurements for each subject on a specific activity
+The following fields are average measurements for each subject on a specific activity:     
 3. TimeBodyAccelerometerMean-X                              
 4. TimeBodyAccelerometerMean-Y                               
 5. TimeBodyAccelerometerMean-Z                               
