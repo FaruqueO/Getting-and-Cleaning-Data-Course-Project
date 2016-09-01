@@ -18,7 +18,7 @@ The following fields are average measurements for each subject on a specific act
 3. TimeBodyAccelerometerMean-X                              
 4. TimeBodyAccelerometerMean-Y                               
 5. TimeBodyAccelerometerMean-Z                               
-6. TimeBodyAccelerometerStdandardDeviation-X
+6. TimeBodyAccelerometerStdandardDeviation-X     
 7. TimeBodyAccelerometerStdandardDeviation-Y                
 8. TimeBodyAccelerometerStdandardDeviation-Z                
 9. TimeGravityAccelerometerMean-X                          
