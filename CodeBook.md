@@ -86,7 +86,7 @@ The following fields are average measurements for each subject on a specific act
 71. FrequencyBodyAccelerometerMagnitudeStdandardDeviation    
 72. FrequencyBodyAccelerometerMagnitudeMeanFreq               
 73. FrequencyBodyAccelerometerJerkMagnitudeMean               
-74. FrequencyBodyAccelerometerJerkMagnitudeStdandardDeviation
+74. FrequencyBodyAccelerometerJerkMagnitudeStdandardDeviation      
 75. FrequencyBodyAccelerometerJerkMagnitudeMeanFreq           
 76. FrequencyBodyGyroscopeMagnitudeMean                       
 77. FrequencyBodyGyroscopeMagnitudeStdandardDeviation        
