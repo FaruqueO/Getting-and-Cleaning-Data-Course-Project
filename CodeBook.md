@@ -97,14 +97,14 @@ The following fields are average measurements for each subject on a specific act
 
 
 Working procedure to create this data:
-1. Fisrt Downloaded the data from given URL.
-2. Read activities and features from file.  
-3. Make the feature names nice by string replace.
-4. Read all data related to training and construct a data frame by rbind
-5. Read all data related to test and construct a data frame by rbind
-6. Marge test and training data and assign column names for marged data.
-7. Create factor for subject and activity columns.
-8. Compute mean for each measurements by subject and activity 
-9. finally, Write data into file.
+1. Fisrt Downloaded the data from given URL.     
+2. Read activities and features from file.      
+3. Make the feature names nice by string replace.        
+4. Read all data related to training and construct a data frame by rbind.   
+5. Read all data related to test and construct a data frame by rbind.    
+6. Marge test and training data and assign column names for marged data.   
+7. Create factor for subject and activity columns.    
+8. Compute mean for each measurements by subject and activity.    
+9. finally, Write data into file.   
 
 
